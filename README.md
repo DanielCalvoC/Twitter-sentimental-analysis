@@ -10,7 +10,7 @@ Description
 - Access Twitter API
 - Clean data with regular expressions
 - Use VaderSentiment to extract sentiments
-- Plot on Word Cloud
+- Plot on WordCloud
 
 Used tech
 --------
